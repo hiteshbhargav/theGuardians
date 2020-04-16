@@ -1,0 +1,13 @@
+@font-face {
+font-family: 'Brexi Stone Regular';
+font-style: normal;
+font-weight: normal;
+src: local('Brexi Stone Regular'), url('BrexiStoneRegular-JRRmB.woff') format('woff');
+}
+h1
+{
+    font-family: 'Brexi Stone Regular';
+    font-weight: 200;
+    font-size: 70px; 
+    color: #63b7af;
+}

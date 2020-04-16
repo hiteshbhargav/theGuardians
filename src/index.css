@@ -1,0 +1,10 @@
+body {
+  margin: 0;
+  font-family: "Pacifico", cursive;
+  background: linear-gradient(to left, #511845 0%, #900c3f 100%);
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, "Courier New",
+    monospace;
+}
