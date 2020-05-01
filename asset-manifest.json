@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/theGuardians/static/css/main.bdebf64c.chunk.css",
+    "main.js": "/theGuardians/static/js/main.5742779c.chunk.js",
+    "main.js.map": "/theGuardians/static/js/main.5742779c.chunk.js.map",
+    "runtime-main.js": "/theGuardians/static/js/runtime-main.cf423bf0.js",
+    "runtime-main.js.map": "/theGuardians/static/js/runtime-main.cf423bf0.js.map",
+    "static/css/2.66b7f74f.chunk.css": "/theGuardians/static/css/2.66b7f74f.chunk.css",
+    "static/js/2.ee7c2b25.chunk.js": "/theGuardians/static/js/2.ee7c2b25.chunk.js",
+    "static/js/2.ee7c2b25.chunk.js.map": "/theGuardians/static/js/2.ee7c2b25.chunk.js.map",
+    "index.html": "/theGuardians/index.html",
+    "precache-manifest.f9b84c31c76a628a428bedf7ba4ca8e2.js": "/theGuardians/precache-manifest.f9b84c31c76a628a428bedf7ba4ca8e2.js",
+    "service-worker.js": "/theGuardians/service-worker.js",
+    "static/css/2.66b7f74f.chunk.css.map": "/theGuardians/static/css/2.66b7f74f.chunk.css.map",
+    "static/css/main.bdebf64c.chunk.css.map": "/theGuardians/static/css/main.bdebf64c.chunk.css.map",
+    "static/js/2.ee7c2b25.chunk.js.LICENSE.txt": "/theGuardians/static/js/2.ee7c2b25.chunk.js.LICENSE.txt",
+    "static/media/App.css": "/theGuardians/static/media/BrexiStoneRegular-JRRmB.4d503d36.woff"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.cf423bf0.js",
+    "static/css/2.66b7f74f.chunk.css",
+    "static/js/2.ee7c2b25.chunk.js",
+    "static/css/main.bdebf64c.chunk.css",
+    "static/js/main.5742779c.chunk.js"
+  ]
+}
